@@ -1,0 +1,121 @@
+.aa {
+    margin: auto;
+    width: 70%;
+    color: #8e8e8e;
+    font-family: Poppins, Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: url("images/background2.jpg");
+    background-attachment: scroll;
+    padding: 0;
+    margin: 0;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 52px;
+    color: white;
+}
+
+b, th {
+    color: lightsalmon;
+}
+
+li {
+    list-style: none;
+
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+h3 {
+    color: lightgray;
+}
+
+figure {
+    float: right;
+}
+
+h1, h2, h3 {
+    margin-top: 1.5em;
+}
+
+.этмология {
+    display: inline-block;
+}
+
+.этмология figure {
+    padding-top: 60px;
+}
+
+.этмология img {
+    height: 230px;
+}
+
+.m > a {
+    font-size: 18px;
+    color: white;
+}
+
+.m > a:hover {
+    color: #8e8e8e;
+}
+
+a {
+    color: lightgray;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #8e8e8e;
+}
+
+li {
+    font-size: 15px;
+}
+
+ol {
+    padding-left: 10px;
+}
+
+.u {
+    width: max-content;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+figcaption {
+    font-style: italic;
+    text-align: center;
+    max-width: 260px;
+    color: lightsalmon;
+}
+
+img {
+    outline: 2px solid white;
+}
+
+.last {
+    color: darksalmon;
+}
+
+footer {
+    background-color: #333333;
+    margin: 0;
+    width: 100%;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.thaks b{
+    color: honeydew;
+    font-family: Poppins, sans-serif;
+}
+.thaks {
+    text-align: center;
+    font-size: 15px;
+}
